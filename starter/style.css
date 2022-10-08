@@ -14,6 +14,7 @@
 }
 
 .firstsection-leftdiv{
+    padding: 20px;
     width: 50%;
     height: 100%;
     background: var(--gray-color); 
@@ -26,6 +27,10 @@
     background-size: cover;
     background-position: bottom left;
     /* background: var(--linear-gradient); */
+}
+
+.logotext{
+    color: var(--main-color);
 }
 /* ===== First section starts here===== */
 
